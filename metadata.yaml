@@ -1,0 +1,32 @@
+_repo: To-the-lights_69063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norton, Roy
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '34062'
+    url: http://www.gutenberg.org/2009/agents/34062
+description: ''
+gutenberg_issued: '2022-09-28'
+identifiers:
+  gutenberg: '69063'
+language: en
+pgterms:marc904: https://archive.org/details/BlueBookV034N06192204
+pgterms:marc905: 20220922153216norton
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Roger Frank
+publication_note: United States :The Consolidated Magazines Corporation,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Fishers -- Fiction'
+- !lcsh 'Seafaring life -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: To the lights
+url: http://www.gutenberg.org/ebooks/69063
